@@ -1,6 +1,8 @@
 # bookCommentSystem
 慕课网mpvue实战项目
 
+说明：这套课程对应的源码里面很多api已经发生改变，我根据官方文档对其进行相应的修改。
+
 前端：Vue + ES6 + ES7
 
 后端：Koa + koa-router + knex
